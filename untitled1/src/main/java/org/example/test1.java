@@ -10,6 +10,6 @@ public class test1 {
         }
         System.out.println(arr.length);
         System.out.println("Hello World!!!");
-        System.out.println("你好");
+        System.out.println("你好c'c'c");
     }
 }
